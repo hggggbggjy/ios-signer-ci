@@ -10,7 +10,7 @@ blocks:
       jobs: []
       agent:
         machine:
-          type: e1-standard-2
+          type: e1-standard-8
           os_image: ubuntu1804
   - name: 'Block #2'
     task:
